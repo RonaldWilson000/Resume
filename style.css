@@ -27,10 +27,11 @@ td {
   border-collapse: collapse;
 }
 
-.links {
+.img-links {
   height: 50px;
   width: 50px;
   margin: 0;
+  border-radius: 20%;
 }
 
 @media (max-width: 480px) {
